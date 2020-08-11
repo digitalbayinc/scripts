@@ -1,4 +1,4 @@
-# Original code borrowed from https://gitlab.com/AravindIM/arch-install
+### Original code borrowed from https://gitlab.com/AravindIM/arch-install
 
 https://www.youtube.com/watch?v=3X9Z_kzQM3E
 
