@@ -1,3 +1,5 @@
+### Original scripts, license and readme borrowed from https://gitlab.com/AravindIM/arch-install
+
 https://www.youtube.com/watch?v=3X9Z_kzQM3E
 
 # Arch Install
